@@ -6,7 +6,7 @@ public class TipeDataNonPrimitif {
     // Tipe data primitif tidak bisa diganti, dan memiliki default value sendiri
 
     // Tipe data non primitif adalah tipe data yang tidak memiliki default value, dan bisa bernilai null
-    // Tipe data primitif merupakan sebuah objek sehingga bisa memiliki method/properti bawaan
+    // Tipe data non primitif merupakan sebuah objek sehingga bisa memiliki method/properti bawaan
     // Di Java semua tipe data primitif memiliki representasi tipe data non primitifnya
 
     // Biasanya hanya berbeda di kapitalisasinya:
