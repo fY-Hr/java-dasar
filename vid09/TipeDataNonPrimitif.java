@@ -19,7 +19,7 @@ public class TipeDataNonPrimitif {
       float -> Float
       double -> Double
       char -> Character
-      bool -> Boolean
+      boolean -> Boolean
     */
 
     // Deklarasi dan inisialisasinya sama saja
